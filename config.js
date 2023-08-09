@@ -63,8 +63,8 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 '
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = 'ᴮᴼᵀ-ᴴᴬᴰ™'
+global.author = 'ᴮᴼᵀ-ᴴᴬᴰ™✍'
 global.vs = '1.10.90'
 global.version = vs
 global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
